@@ -1,0 +1,125 @@
+[{"nombre":"HobbyKing",
+"paisdeorigen":"Hong Kong",
+"ciudaddeorigen":"Hong Kong",
+"empleados":200},
+
+{"nombre":"Horizon Hobby",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Champaign, Illinois",
+"empleados":120},
+
+{"nombre":"Tower Hobbies",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Champaign Illinois",
+"empleados":80},
+
+{"nombre":"Graupner",
+"paisdeorigen":"Alemania",
+"ciudaddeorigen":"Kirchheim unter Teck",
+"empleados":100},
+
+{"nombre":"FMS Model",
+"paisdeorigen":"China",
+"ciudaddeorigen":"Dongguan, Guangdong",
+"empleados":122},
+
+{"nombre":"Multiplex Modellsport",
+"paisdeorigen":"Alemania",
+"ciudaddeorigen":"Bretten-Golshausen",
+"empleados":77},
+
+{"nombre":"Phoenix Model",
+"paisdeorigen":"Vietnam",
+"ciudaddeorigen":"Ho Chi Minh",
+"empleados":67},
+
+{"nombre":"Hitec RCD",
+"paisdeorigen":"Corea del Sur",
+"ciudaddeorigen":"Dongtan, Hwaseong",
+"empleados":78},
+
+{"nombre":"Tamiya",
+"paisdeorigen":"Japón",
+"ciudaddeorigen":"Shizouka",
+"empleados":34},
+
+{"nombre":"Flyzone",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Champaign, Illinois",
+"empleados":55},
+
+{"nombre":"E-flite",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Campaign, Illinois",
+"empleados":33},
+
+{"nombre":"Great Planes",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Champaign, Illinois",
+"empleados":55},
+
+{"nombre":"Dynam RC",
+"paisdeorigen":"China",
+"ciudaddeorigen":"Dongguan, Guangdong",
+"empleados":73},
+
+{"nombre":"VolantexRC",
+"paisdeorigen":"China",
+"ciudaddeorigen":"Shzhen, Guandong",
+"empleados":33},
+
+{"nombre":"Guillow's",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Wakefield, Massachusetts",
+"empleados":43},
+
+{"nombre":"SIG Manufacturing",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Montezuma, Iowa",
+"empleados":55},
+
+{"nombre":"HobbyZone",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Champaign, Illinois",
+"empleados":32},
+
+{"nombre":"Black Horse Model",
+"paisdeorigen":"Vietnam",
+"ciudaddeorigen":"Ho Chi Minh",
+"empleados":87},
+
+{"nombre":"Seagull Models",
+"paisdeorigen":"Vietnam",
+"ciudaddeorigen":"Ho Chi Minh",
+"empleados":22},
+
+{"nombre":"Zvezda",
+"paisdeorigen":"Rusia",
+"ciudaddeorigen":"Lobnya, Moscú",
+"empleados":44},
+
+{"nombre":"Aeroworks",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Erie, Colorado",
+"empleados":88},
+
+{"nombre":"Extreme Flight RC",
+"paisdeorigen":"Estados Unidos",
+"ciudaddeorigen":"Cumming, Georgia",
+"empleados":65},
+
+{"nombre":"Pilot-RC",
+"paisdeorigen":"China",
+"ciudaddeorigen":"Dongguan, Guandong",
+"empleados":76},
+
+{"nombre":"RC Factory",
+"paisdeorigen":"República Checha",
+"ciudaddeorigen":"Brno",
+"empleados":44},
+
+{"nombre":"TWM",
+"paisdeorigen":"Hong Kong",
+"ciudaddeorigen":"Hing Kong",
+"empleados":77}
+]
